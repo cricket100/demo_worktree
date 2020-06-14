@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/worktree.iml" filepath="$PROJECT_DIR$/worktree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_worktree.iml" filepath="$PROJECT_DIR$/demo_worktree.iml" />
     </modules>
   </component>
 </project>
