@@ -1,0 +1,6 @@
+class CalculatorClient {
+    public static void main(String[] args) {
+        Calculator cal = new Calculator();
+        System.out.print(cal.add(2,2));
+    }
+}
